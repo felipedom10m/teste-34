@@ -1,0 +1,14 @@
+{
+  "email": "flupin@gmail.com",
+  "produto": "teste-34",
+  "upsells_comprados": [
+    2
+  ],
+  "data": "2025-09-06T15:32:33.685Z",
+  "transacao_id": "checkout_779150",
+  "acesso_liberado": true,
+  "nome": "Felipe de Sousa",
+  "cpf": "19100000000",
+  "telefone": "11970375936",
+  "senha": "flupin1234"
+}
