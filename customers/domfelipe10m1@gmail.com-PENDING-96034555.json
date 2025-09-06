@@ -1,0 +1,14 @@
+{
+  "email": "domfelipe10m1@gmail.com",
+  "nome": "Felipe de Sousa",
+  "cpf": "19100000000",
+  "selectedUpsells": [
+    2
+  ],
+  "transactionId": 96034555,
+  "timestamp": "2025-09-06T15:16:19.711Z",
+  "productInfo": {
+    "name": "teste-34",
+    "repositoryUrl": "https://github.com/felipedom10m/teste-34"
+  }
+}
